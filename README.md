@@ -3,7 +3,7 @@
 The first official release. We fought PyInstaller, and we won.
 
 ### Features:
-- **Fully compiled executable:** No Python installation required.
+- I forgot to compile it into an executable. Coming soon.
 - **Retro Installer:** Experience the thrill of a classic Windows 98 wizard.
 - **The Border:** Yes, the border is finally fixed.
 - **Custom Icon:** No more generic window squares.
