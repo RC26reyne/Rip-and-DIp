@@ -1,0 +1,7 @@
+*.zpa
+*.mp3
+*.wav
+*.flac
+__pycache__/
+build/
+dist/
